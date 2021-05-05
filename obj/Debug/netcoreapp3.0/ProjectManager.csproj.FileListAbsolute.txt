@@ -1,0 +1,11 @@
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\bin\Debug\netcoreapp3.0\ProjectManager.exe
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\bin\Debug\netcoreapp3.0\ProjectManager.deps.json
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\bin\Debug\netcoreapp3.0\ProjectManager.runtimeconfig.json
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\bin\Debug\netcoreapp3.0\ProjectManager.runtimeconfig.dev.json
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\bin\Debug\netcoreapp3.0\ProjectManager.dll
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\bin\Debug\netcoreapp3.0\ProjectManager.pdb
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\obj\Debug\netcoreapp3.0\ProjectManager.csprojAssemblyReference.cache
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\obj\Debug\netcoreapp3.0\ProjectManager.AssemblyInfoInputs.cache
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\obj\Debug\netcoreapp3.0\ProjectManager.AssemblyInfo.cs
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\obj\Debug\netcoreapp3.0\ProjectManager.dll
+C:\Users\maaik\OneDrive - Erasmushogeschool Brussel\Semester 7\Integration Project\git\ProjectManager\obj\Debug\netcoreapp3.0\ProjectManager.pdb
